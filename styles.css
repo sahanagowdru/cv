@@ -1,0 +1,40 @@
+body{
+  background-color:#66BFBF ;
+}
+
+
+  hr{
+  border-style: none;
+border-top-style: dotted;
+border-color: grey;
+border-width: 3px;
+width:5%;
+margin:  auto;
+}
+h1{
+  color:blue ;
+  margin- top: 0;
+  font-family: 'Sacramento', cursive;
+  padding-left: 40%;
+}
+h2{
+  color:blue ;
+  font-family: 'Montserrat', sans-serif;
+}
+h3{
+  color:blue ;
+  font-family: 'Montserrat', sans-serif;
+}
+.dog{
+  padding-left: 620px;
+  margin-bottom: 2%;
+}
+.dog1{
+  margin: 2%;
+}
+.dog2{
+  margin: 2%;
+  }
+  .dog3{
+margin: 2%;
+}
